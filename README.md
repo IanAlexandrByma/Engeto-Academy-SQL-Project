@@ -15,8 +15,8 @@ Otázky:
 
 Odpovědi:
 
-1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
- 
+ 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
+
     V horizontu měřených let došlo celkem 30 * k meziročnímu poklesu mzdy.
     Nejvíce případu datujeme do let 2008–2012(finanční krize) primárně v oblasti Těžba a dobývání  
     a oblastí spojené s přímými prodeji. 
