@@ -48,26 +48,25 @@ Odpovědi:
   4.Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)? 
  
     Cena potravin nikdy nevzrostla o deset procent a více nejblíže tomu pak byl rok 2011, 
-    kdy ceny vzrostly o 6,73% 
-    a výplata pouze o 2.57% 
+    kdy ceny vzrostly o 6,73%, 
+    a výplata pouze o 2.57%, 
     rozdíl 4.16%. 
     (Nejvyšší nárůst ceny potravin zaznamenal rok 2016(9.63 %), 
-    ovšem i platy stouply o 6.84% 
+    ovšem i platy stouply o 6.84%, 
     tudíž rozdíl pouze 2.79 %). 
 
   5.Má výška HDP vliv na změny ve mzdách a cenách potravin? 
   Neboli, pokud HDP vzroste výrazněji v jednom roce,  
   projeví se to na cenách potravin či mzdách ve stejném nebo stejném roce výraznějším růstem? 
    
-    HDP (gross domestic product) neovlivňuje přímo průměrnou mzdu, 
-    lze zjistit, že se vzrůstající či klesající hodnotou (GDP) roste i klesá 
-    průměrná mzda ovšem ne úměrně vůči hodnotě GDP. 
-    Ještě menší má vliv na průměrnou cenu potravin. 
-    Hodnota ceny potravin odráží do jisté míry hodnotu 
-    GDP kopíruje, ale je zde patrný vliv externích(vnějších)  
-    faktorů (Poptávka, úroda) 
-    Nejpatrnější přímý vliv můžeme sledovat hned při prvním sledovaném období (2005-2006) 
-    GDP (2005,6.77 %) 
-    Avg_Salary_Per_Year (2006,7.23 %) 
-    Avg_Food_Price_Per_Year (2006,6.76 %). 
-    Vliv GDP v následujících letech lze sledovat maximálně v rozmezí dvou let. 
+    HDP(gross domestic product) neovlivňuje přímo průměrnou mzdu,
+    lze ale říci že se vzrůstající či klesající hodnotou(GDP) roste i
+    průměrná mzda ovšem ne úměrně vůči hodnotě GDP.
+    Ještě menší má vliv na průměrnou cenu potravin.
+    Hodnota ceny potravin do jisté míry hodnotu GDP kopíruje, 
+    ale je zde patrný vliv externích(vnějších) faktorů (Poptávka, úroda).
+    Nejpatrnější přímý vliv můžeme sledovat hned při prvním sledovaném období(2005-2006):
+    GDP(2005,6.77%)
+    Avg_Salary_Per_Year(2006,7.23%)
+    Avg_Food_Price_Per_Year(2006,6.76%).
+    Vliv GDP na obě hodnoty, lze sledovat maximálně v rozmezí dvou let.
