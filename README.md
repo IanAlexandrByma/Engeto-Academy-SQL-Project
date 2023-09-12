@@ -73,7 +73,7 @@ projeví se to na cenách potravin či mzdách ve stejném nebo stejném roce v�
     Vliv GDP na obě hodnoty, lze sledovat maximálně v rozmezí dvou let.
 
 
-    Engeto_Project_SQL
+Engeto_Project_SQL
 
 Online Data Academy, part 1 (SQL).
 Ahoj Matěji nebo Honzo.
@@ -89,7 +89,7 @@ czechia_payroll_industry_branch – Číselník odvětví v tabulce mezd.
 czechia_payroll_unit – Číselník jednotek hodnot v tabulce mezd.
 czechia_payroll_value_type – Číselník typů hodnot v tabulce mezd.
 
- 	 t_Ian_Alexandr_Byma_project_SQL_Food - obsahuje script pro vytvoření      	tabulky dle zadání:
+t_Ian_Alexandr_Byma_project_SQL_Food - obsahuje script pro vytvoření      	tabulky dle zadání:
 czechia_price – Informace o cenách vybraných potravin za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
 czechia_price_category – Číselník kategorií potravin, které se vyskytují v našem přehledu.
 
