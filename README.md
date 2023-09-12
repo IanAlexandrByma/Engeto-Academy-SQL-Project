@@ -1,7 +1,7 @@
 # Engeto-Academy-SQL-Project
 ## Repositář obsahující můj projekt o pěti otázkách.
 
-Otázky:
+**Otázky:**
 
 1.Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
@@ -15,7 +15,7 @@ Otázky:
 
 Odpovědi:
 
-1.Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
+**1.Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
     
     V horizontu měřených let došlo celkem 30 * k meziročnímu poklesu mzdy.
     Nejvíce případu datujeme do let 2008–2012(finanční krize) primárně v oblasti Těžba a dobývání  
@@ -26,9 +26,9 @@ Odpovědi:
     Nejnižší pokles 2010 Kulturní, zábavní a rekreační činnosti (0.05 %). 
     Meziroční pokles nikdy nepřesáhl 10 %. Nejvyšší rozdíl je 4 478.5 Kč (2012, Peněžnictví a pojišťovnictví). 
 
- 2.Kolik je možné si koupit kilogramů chleba a litrů mléka  
+**2.Kolik je možné si koupit kilogramů chleba a litrů mléka  
 za první a poslední srovnatelné období z dat, které jsou pro tyto  
-údaje k dispozici? 
+údaje k dispozici? **
 
     V roce 2006(první období s kompletními hodnotami) jsme za průměrnou výplatu  
     (20 677.0375 kč) mohli koupit: 
