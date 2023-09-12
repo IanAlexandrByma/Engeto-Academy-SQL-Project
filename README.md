@@ -84,6 +84,7 @@ Soubor Readme- obsahuje výzkumné otázky a odpovědi k nim + průvodní dopis.
 
 Project: 
 t_Ian_Alexandr_Byma_project_SQL_primary_final - obsahuje script pro vytvoření primární tabulky dle zadání:
+
 czechia_payroll – Informace o mzdách v různých odvětvích za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
 czechia_payroll_calculation – Číselník kalkulací v tabulce mezd.
 czechia_payroll_industry_branch – Číselník odvětví v tabulce mezd.
@@ -92,7 +93,8 @@ czechia_payroll_value_type – Číselník typů hodnot v tabulce mezd.
 czechia_price – Informace o cenách vybraných potravin za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
 czechia_price_category – Číselník kategorií potravin, které se vyskytují v našem přehledu.
 
-t_Ian_Alexandr_Byma_project_SQL_secondary_final - obsahuje script pro vytvoření sekundární tabulky (tabulka economies).
+t_Ian_Alexandr_Byma_project_SQL_secondary_final - obsahuje script pro vytvoření sekundární tabulky (tabulka economies):
+
 economies - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
 
 Veškeré otázky a odpovědi jsou obsaženy jak v kódu Projektu, tak v samostatném Readme.md. (Přemýšlel jsem, jestli mám význam se u otázek více rozepisovat, ale nakonec jsem se rozhodl že jak kód Projektu, tak textový soubor bude obsahovat ty samé výstupy, aby byla odpověď zcela jasná. Pouze jsem někdy doplnil odpověď o podstatné informace nebo pokud byla odpověď ‘FALSE’, uvedl jsem hodnotu, která byla k splnění limitů nejblíž.
