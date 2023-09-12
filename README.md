@@ -1,7 +1,7 @@
 # Engeto-Academy-SQL-Project
-Repositář obsahující můj projekt o pěti otázkách.
+###Repositář obsahující můj projekt o pěti otázkách.
 
-Otázky:
+###Otázky:
 
 1.Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
