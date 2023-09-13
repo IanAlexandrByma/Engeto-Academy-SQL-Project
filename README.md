@@ -69,9 +69,9 @@
     Vliv GDP na obě hodnoty, lze sledovat maximálně v rozmezí dvou let.
 
 
-Engeto_Project_SQL
+## Engeto_Project_SQL
 
-Online Data Academy, part 1 (SQL).
+### Online Data Academy, part 1 (SQL).
 
     Ahoj Matěji nebo Honzo.
     Repositář obsahuje tyto následující soubory:
@@ -79,11 +79,11 @@ Online Data Academy, part 1 (SQL).
     Soubor Readme.md obsahuje výzkumné otázky a odpovědi k nim + průvodní dopis.
 
     Project: 
-        t_Ian_Alexandr_Byma_project_SQL_primary_final - obsahuje script pro vytvoření primární tabulky dle zadání:
+    t_Ian_Alexandr_Byma_project_SQL_primary_final - obsahuje script pro vytvoření primární tabulky dle zadání:
 
-        czechia_payroll – Informace o mzdách v různých odvětvích za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
+    czechia_payroll – Informace o mzdách v různých odvětvích za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
 
-        czechia_payroll_calculation – Číselník kalkulací v tabulce mezd.
+    czechia_payroll_calculation – Číselník kalkulací v tabulce mezd.
 
 czechia_payroll_industry_branch – Číselník odvětví v tabulce mezd.
 
