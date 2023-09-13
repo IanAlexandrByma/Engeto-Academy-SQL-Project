@@ -77,7 +77,6 @@
     Repositář obsahuje tyto následující soubory:
      
     Soubor Readme.md obsahuje výzkumné otázky a odpovědi k nim + průvodní dopis.
-
     Project: 
     t_Ian_Alexandr_Byma_project_SQL_primary_final - obsahuje script pro vytvoření primární tabulky dle zadání:
 
