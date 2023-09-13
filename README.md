@@ -26,7 +26,7 @@ Odpovědi:
     Nejnižší pokles 2010 Kulturní, zábavní a rekreační činnosti (0.05 %). 
     Meziroční pokles nikdy nepřesáhl 10 %. Nejvyšší rozdíl je 4 478.5 Kč (2012, Peněžnictví a pojišťovnictví). 
 
-**2.Kolik je možné si koupit kilogramů chleba a litrů mléka  
+2.Kolik je možné si koupit kilogramů chleba a litrů mléka  
 za první a poslední srovnatelné období z dat, které jsou pro tyto  
 údaje k dispozici? **
 
