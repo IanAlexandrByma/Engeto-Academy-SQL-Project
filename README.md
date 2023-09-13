@@ -27,8 +27,8 @@
     Meziroční pokles nikdy nepřesáhl 10 %. Nejvyšší rozdíl je 4 478.5 Kč (2012, Peněžnictví a pojišťovnictví). 
 
 ## 2.Kolik je možné si koupit kilogramů chleba a litrů mléka  
-za první a poslední srovnatelné období z dat, které jsou pro tyto  
-údaje k dispozici?
+## za první a poslední srovnatelné období z dat, které jsou pro tyto  
+## údaje k dispozici?
 
     V roce 2006(první období s kompletními hodnotami) jsme za průměrnou výplatu  
     (20 677.0375 kč) mohli koupit: 
@@ -57,8 +57,8 @@ za první a poslední srovnatelné období z dat, které jsou pro tyto
     tudíž rozdíl pouze 2.79 %). 
 
  ## 5.Má výška HDP vliv na změny ve mzdách a cenách potravin? 
-Neboli, pokud HDP vzroste výrazněji v jednom roce,  
-projeví se to na cenách potravin či mzdách ve stejném nebo stejném roce výraznějším růstem?** 
+ ## Neboli, pokud HDP vzroste výrazněji v jednom roce,  
+ ## projeví se to na cenách potravin či mzdách ve stejném nebo stejném roce výraznějším růstem?
    
     HDP(gross domestic product) neovlivňuje přímo průměrnou mzdu,
     lze ale říci že se vzrůstající či klesající hodnotou(GDP) roste i
