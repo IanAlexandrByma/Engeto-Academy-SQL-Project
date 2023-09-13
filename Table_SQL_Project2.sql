@@ -1,7 +1,7 @@
 
-	        ALTER TABLE economies RENAME COLUMN year TO Year1;
+	    ALTER TABLE economies RENAME COLUMN year TO Year1;
 	      
-	    CREATE OR REPLACE TABLE t_ian_alexanr_byma_project_SQL_secondary_final
+	    CREATE OR REPLACE TABLE t_ian_alexanr_byma_sql_project_secondary_final
 	    	SELECT
 	    	    e1.year1,
 	    		e1.country,

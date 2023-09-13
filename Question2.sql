@@ -4,58 +4,60 @@
  * údaje k dispozici?
  */
 				
-		CREATE OR REPLACE VIEW V1 AS 
+		CREATE OR REPLACE VIEW view_food_price AS 
 			SELECT	
-		 		Food, 
-		 		Average_Food_Price,
-		 		Year1,
-		 		Unit
-		 	FROM t_Ian_Alexandr_Byma_project_SQL_food
+		 		food, 
+		 		average_food_price,
+		 		unit,
+		 		food_unit,
+		 		food_year1
+		 	FROM t_ian_alexandr_byma_project_sql_primary_final
 		 	WHERE food IN ('Chléb konzumní kmínový', 'Mléko polotučné pasterované')
-		 	AND year1 IN (2006,2018);
+		    	AND year1 IN (2006,2018)
+		    GROUP BY food_year1, food;
 		
-		CREATE OR REPLACE VIEW V2 AS
+		CREATE OR REPLACE VIEW view_average_salary AS
 		 	SELECT
 		 		year1 AS Year2,
-		 		avg(value) AS Salary
+		 		round(avg(value),2) AS Salary
 			FROM t_ian_alexandr_byma_project_sql_primary_final
 		 	WHERE year1 IN (2006,2018)
 		 	GROUP BY year1;
 		
-		CREATE OR REPLACE VIEW V3 AS
+		CREATE OR REPLACE VIEW view_average_salary_and_food_price AS
 		 	SELECT 
 		 		Food,
-		 		Average_Food_Price,
-		 		Year1,
+		 		Average_food_price,
+		 		Food_year1,
 		 		Salary,
-		 		round(salary / average_food_price,2) AS Value_Of_Unit_For_Average_Salary,
+		 		round(salary / average_food_price,2) AS value_of_unit_for_average_salary,
 		 		CASE 
 		 			WHEN food = 'Chléb konzumní kmínový' THEN 'kg'
 		 			ELSE 'l'
 		 		END AS Unit 
-		 	FROM V1
-		 		JOIN V2
-		 			ON V1.year1 = V2.year2
-		 	ORDER BY year1, food;
+		 	FROM view_food_price AS v1
+		 		JOIN view_average_salary AS v2
+		 			ON V1.food_year1 = V2.year2
+		 	ORDER BY food_year1, food;
 		 
 	   WITH difference1 AS (
 		 SELECT 
 		 	food,
-		 	year1,
+		 	food_year1,
 		 	Value_Of_Unit_For_Average_Salary AS Unit_For_Average_Salary1,
 		 	unit
-		 FROM v3
-		 WHERE year1 = 2006 
+		 FROM view_average_salary_and_food_price AS v3
+		 WHERE food_year1 = 2006 
 		 GROUP BY unit
 		 ),
 	   difference2 AS (
 		 SELECT
 		 	food,
-		 	year1,
+		 	food_year1,
 		 	Value_Of_Unit_For_Average_Salary AS Unit_For_Average_Salary2,
 		 	unit
-		 FROM v3
-		 WHERE year1 = 2018
+		 FROM view_average_salary_and_food_price AS v3
+		 WHERE food_year1 = 2018
 		 GROUP BY unit
 		 )
 		 SELECT 

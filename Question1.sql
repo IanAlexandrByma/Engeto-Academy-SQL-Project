@@ -2,7 +2,7 @@
  * 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají? 
 */
 	
-		WITH t1 AS (
+		WITH t_ian_alexandr_byma_project_sql_primary_final1 AS (
 		  SELECT DISTINCT
 		    year1,
 		 	value,
@@ -10,7 +10,7 @@
 		 	name
 	      FROM t_ian_alexandr_byma_project_sql_primary_final
 	      ),
-	   t2 AS (
+	   t_ian_alexandr_byma_project_sql_primary_final2 AS (
 	     SELECT DISTINCT
 	         year1,
 	         value,
@@ -24,10 +24,10 @@
 			t2.year1 AS Next_Year,
 			t2.value AS Value_For_Next_Year,
 			round((t2.value - t1.value) / t1.value * 100,2) AS Difference_In_Percent,
-			t1.Ib_Code, 
-			t1.Name
-		FROM t1
-			JOIN t2
+			t1.ib_code AS Ib_code, 
+			t1.name AS Name
+		FROM t_ian_alexandr_byma_project_sql_primary_final1 AS t1
+			JOIN t_ian_alexandr_byma_project_sql_primary_final2 AS t2 
 				ON t1.ib_code = t2.ib_code
 				AND t1.year1 = t2.year1 - 1
 		WHERE t2.value < t1.value

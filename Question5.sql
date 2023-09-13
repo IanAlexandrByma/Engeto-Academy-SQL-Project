@@ -4,37 +4,37 @@
  * projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
  */        
 	        
-	    CREATE OR REPLACE VIEW v11 As
+	    CREATE OR REPLACE VIEW hdp_influence_to_food_price1 As
 	        SELECT
-	            tss.Year1,
-	        	Grow_Of_GDP,
-	        	v6.Year1 AS Year2,
-	        	Avg_Salary_Per_Year,
-	        	v9.Year1 AS Year3,
-	        	Avg_Food_Price_Per_Year
-	        FROM t_ian_alexanr_byma_project_SQL_secondary_final AS tss
+	            spsf.Year1,
+	        	Grow_of_gdp,
+	        	v6.year1 AS Year2,
+	        	Avg_salary_per_year,
+	        	v9.year1 AS Year3,
+	        	Avg_food_price_per_year
+	        FROM t_ian_alexanr_byma_project_sql_secondary_final AS spsf
 	        JOIN v6
-	        	ON tss.year1 = v6.year1 -1
+	        	ON spsf.year1 = v6.year1 -1
 	        JOIN v9 
 	        	ON v6.year1 -1 = v9.year1 -1
-	        	AND v6.year1 -1 = tss.year1;
+	        	AND v6.year1 -1 = spsf.year1;
 	        
 	        
 	          
-	    CREATE OR REPLACE VIEW v12 As
+	    CREATE OR REPLACE VIEW hdp_influence_to_food_price2 As
 	        SELECT
-	            tss.Year1,
-	        	Grow_Of_GDP,
-	        	v6.Year1 AS Year2,
-	        	Avg_Salary_Per_Year,
-	        	v9.Year1 AS Year3,
-	        	Avg_Food_Price_Per_Year
-	        FROM t_ian_alexanr_byma_project_SQL_secondary_final AS tss
+	            spsf.Year1,
+	        	Grow_of_gdp,
+	        	v6.year1 AS Year2,
+	        	Avg_salary_per_year,
+	        	v9.year1 AS Year3,
+	        	Avg_food_price_per_year
+	        FROM t_ian_alexanr_byma_project_sql_secondary_final AS spsf
 	        JOIN v6
-	        	ON tss.year1 = v6.year1 
+	        	ON spsf.year1 = v6.year1 
 	        JOIN v9 
 	        	ON v6.year1 = v9.year1 
-	        	AND v6.year1 = tss.year1;
+	        	AND v6.year1 = spsf.year1;
         
 /*
  * HDP(gross domestic product) neovlivňuje přímo průměrnou mzdu,
