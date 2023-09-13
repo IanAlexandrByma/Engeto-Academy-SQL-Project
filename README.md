@@ -99,7 +99,8 @@ czechia_price_category – Číselník kategorií potravin, které se vyskytují
 t_Ian_Alexandr_Byma_project_SQL_secondary_final - obsahuje script pro vytvoření sekundární tabulky (tabulka economies):
 
 economies - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
-[!IMPORTANT]Veškeré otázky a odpovědi jsou obsaženy jak v kódu Projektu, tak v samostatném Readme.md. (Přemýšlel jsem, jestli mám význam se u otázek více rozepisovat, ale nakonec jsem se rozhodl že jak kód Projektu, tak textový soubor bude obsahovat ty samé výstupy, aby    byla odpověď zcela jasná. Pouze jsem někdy doplnil odpověď o podstatné informace nebo pokud byla odpověď ‘FALSE’, uvedl jsem        hodnotu, která byla k splnění limitů nejblíž.
+ 
+[!IMPORTANT] Veškeré otázky a odpovědi jsou obsaženy jak v kódu Projektu, tak v samostatném Readme.md. (Přemýšlel jsem, jestli mám význam se u otázek více rozepisovat, ale nakonec jsem se rozhodl že jak kód Projektu, tak textový soubor bude obsahovat ty samé výstupy, aby    byla odpověď zcela jasná. Pouze jsem někdy doplnil odpověď o podstatné informace nebo pokud byla odpověď ‘FALSE’, uvedl jsem        hodnotu, která byla k splnění limitů nejblíž.
 Děkuji za čas, který jste věnovali mému projektu a těším se na Váš názor, v projektu se pravděpodobně objeví i to co se Vám nebude      zas tak líbit, takže samozřejmě budu rád i za kritiku. :-)
 
    Alex
