@@ -26,7 +26,7 @@
     Nejnižší pokles 2010 Kulturní, zábavní a rekreační činnosti (0.05 %). 
     Meziroční pokles nikdy nepřesáhl 10 %. Nejvyšší rozdíl je 4 478.5 Kč (2012, Peněžnictví a pojišťovnictví). 
 
-## 1. Kolik je možné si koupit kilogramů chleba a litrů mléka za první a poslední srovnatelné období z dat, které jsou pro tyto údaje k dispozici?
+## 2. Kolik je možné si koupit kilogramů chleba a litrů mléka za první a poslední srovnatelné období z dat, které jsou pro tyto údaje k dispozici?
 
     V roce 2006(první období s kompletními hodnotami) jsme za průměrnou výplatu  
     (20 677.0375 kč) mohli koupit: 
@@ -40,11 +40,11 @@
     V roce 2018 jsme mohli za průměrnou výplatu koupit o 57.82 kg Chleba více než v roce 2006. 
     V roce 2018 jsme mohli za průměrnou výplatu koupit o 206.94 l Mléka více než v roce 2006. 
 
- ## 1. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší procentuální meziroční nárůst)? 
+ ## 3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší procentuální meziroční nárůst)? 
  
     Nejnižší průměrný meziroční růst se objevuje u kategorie Cukr Krystalový (-1.92 %) tz. Zlevnil. 
  
- ## 1. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)? 
+ ## 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)? 
  
     Cena potravin nikdy nevzrostla o deset procent a více nejblíže tomu pak byl rok 2011, 
     kdy ceny vzrostly o 6,73%, 
@@ -54,7 +54,7 @@
     ovšem i platy stouply o 6.84%, 
     tudíž rozdíl pouze 2.79 %). 
 
- ## 1. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo stejném roce výraznějším růstem?
+ ## 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo stejném roce výraznějším růstem?
    
     HDP(gross domestic product) neovlivňuje přímo průměrnou mzdu,
     lze ale říci že se vzrůstající či klesající hodnotou(GDP) roste i
