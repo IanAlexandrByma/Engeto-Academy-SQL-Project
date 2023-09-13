@@ -80,7 +80,7 @@ Repositář obsahuje tyto následující soubory:
 Soubor Readme.md obsahuje výzkumné otázky a odpovědi k nim + průvodní dopis.
 
 Project: 
-t_Ian_Alexandr_Byma_project_SQL_primary_final - obsahuje script pro vytvoření primární tabulky dle zadání:
+t_ian_alexandr_byma_sql_project_primary_final - obsahuje script pro vytvoření primární tabulky dle zadání:
 
     czechia_payroll – Informace o mzdách v různých odvětvích za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
 
@@ -96,13 +96,16 @@ t_Ian_Alexandr_Byma_project_SQL_primary_final - obsahuje script pro vytvoření 
 
     czechia_price_category – Číselník kategorií potravin, které se vyskytují v našem přehledu.
 
-t_Ian_Alexandr_Byma_project_SQL_secondary_final - obsahuje script pro vytvoření sekundární tabulky (tabulka economies):
+t_ian_alexandr_byma_sql_project_secondary_final - obsahuje script pro vytvoření sekundární tabulky (tabulka economies):
 
     economies - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
  
 > [!IMPORTANT]
-> Veškeré otázky a odpovědi jsou obsaženy jak v kódu Projektu, tak v samostatném Readme.md. (Přemýšlel jsem, jestli mám význam se u otázek více rozepisovat, ale nakonec jsem se rozhodl že jak kód Projektu, tak textový soubor bude obsahovat ty samé výstupy, aby byla odpověď zcela jasná. Pouze jsem někdy doplnil odpověď o podstatné informace nebo pokud byla odpověď ‘FALSE’, uvedl jsem  hodnotu, která byla k splnění limitů nejblíž.
+> Veškeré otázky a odpovědi jsou obsaženy jak v kódu Projektu, tak v samostatném Readme.md. Přemýšlel jsem, jestli mám význam se u otázek více rozepisovat, ale nakonec jsem se rozhodl že jak kód Projektu, tak textový soubor bude obsahovat ty samé výstupy, aby byla odpověď zcela jasná. Pouze jsem někdy doplnil odpověď o podstatné informace nebo pokud byla odpověď ‘FALSE’, uvedl jsem hodnotu, která byla k splnění limitů nejblíž.
 > 
-Děkuji za čas, který jste věnovali mému projektu a těším se na Váš názor, v projektu se pravděpodobně objeví i to co se Vám nebude      zas tak líbit, takže samozřejmě budu rád i za kritiku. :-)
+Děkuji za čas, který jste věnovali mému projektu a těším se na Váš názor, v projektu se pravděpodobně objeví i to co se Vám nebude zas tak líbit, takže samozřejmě budu rád i za kritiku. :-)
 
    Alex
+
+> [!NOTE]
+> V názvech sloupců tabulek, které se zobrazí jako finální při spuštění kódu jsem ponechal velké písmeno, přišlo mi to vizuálně lepší a přehlednější .
