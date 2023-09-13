@@ -109,3 +109,4 @@ Děkuji za čas, který jste věnovali mému projektu a těším se na Váš ná
 
 > [!NOTE]
 > V názvech sloupců tabulek, které se zobrazí jako finální při spuštění kódu jsem ponechal velké písmeno, přišlo mi to vizuálně lepší a přehlednější .
+> 
